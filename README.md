@@ -16,4 +16,10 @@ This site serves as a canonical index to our public work, linking to active repo
 
 ## Public work
 
-_This index will grow over time as work stabilizes and is released._
+### Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI) (2025)
+
+A theoretical framework for hybrid cognitive systems and human–machine interaction.
+
+- GitHub: https://github.com/RosCollective/EFT-HCI  
+- Archived & citable: https://doi.org/10.5281/zenodo.17924057
+
