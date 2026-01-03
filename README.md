@@ -16,6 +16,13 @@ This site serves as a canonical index to our public work, linking to active repo
 
 ## Public work
 
+### On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint (2026)
+
+A critical analysis of how intelligence, agency, and responsibility are misattributed to technical systems, displacing human accountability through abstraction, scale, and power.
+
+- GitHub: [github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution](https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution)  
+- Archived & citable: [doi.org/10.5281/zenodo.18140571](https://doi.org/10.5281/zenodo.18140571)
+
 ### SUNO Driver’s Guide: What We Wish We’d Had When We Started (2025)
 
 A practical guide to listening to, understanding, and working with generative music systems.
