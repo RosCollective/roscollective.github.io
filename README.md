@@ -14,28 +14,62 @@ This site serves as a canonical index to our public work, linking to active repo
 
 ---
 
+## Citation & reuse
+
+All public work listed below is archived and citable via DOI.
+
+- **Version DOIs** are preferred for precise citation and reproducibility.
+- **Concept DOIs** may be used to reference an evolving body of work and will always resolve to the latest version.
+
+---
+
 ## Public work
 
 ### On Intelligence, Power, and the Error of Attribution: On Misrecognition and Restraint (2026)
 
 A critical analysis of how intelligence, agency, and responsibility are misattributed to technical systems, displacing human accountability through abstraction, scale, and power.
 
-- GitHub: [github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution](https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution)  
-- Archived & citable: [doi.org/10.5281/zenodo.18140571](https://doi.org/10.5281/zenodo.18140571)
+- GitHub: https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution  
+- Version DOI (v1.0.0): https://doi.org/10.5281/zenodo.18140571  
+- Concept DOI: https://doi.org/10.5281/zenodo.18140570  
+
+---
 
 ### SUNO Driver’s Guide: What We Wish We’d Had When We Started (2025)
 
-A practical guide to listening to, understanding, and working with generative music systems.
+A practical guide to listening to, understanding, and working with generative music systems, focused on recognition, structure, and reducing guesswork rather than prompt optimization.
 
-- GitHub: [github.com/RosCollective/suno-drivers-guide](https://github.com/RosCollective/suno-drivers-guide)  
-- Archived & citable: [doi.org/10.5281/zenodo.18065688](https://doi.org/10.5281/zenodo.18065688)
+- GitHub: https://github.com/RosCollective/suno-drivers-guide  
+- Version DOI (v1.0.0): https://doi.org/10.5281/zenodo.18065688  
+- Concept DOI: https://doi.org/10.5281/zenodo.18065687  
+
+---
 
 ### Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI) (2025)
 
 A theoretical framework for hybrid cognitive systems and human–machine interaction.
 
-- GitHub: [github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
-- Archived & citable: [doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
+- GitHub: https://github.com/RosCollective/EFT-HCI  
+- Version DOI (v1.0.2): https://doi.org/10.5281/zenodo.18065567  
+- Concept DOI: https://doi.org/10.5281/zenodo.17924057  
 
+---
 
+## Writings
 
+A chronological public archive of essays, opinion, ruminations, and longer-form analytical writing by the ROS Collective.
+
+- GitHub: https://github.com/RosCollective/Writings  
+- Version DOI (v0.1): https://doi.org/10.5281/zenodo.18391061  
+- Concept DOI: https://doi.org/10.5281/zenodo.18391060  
+
+---
+
+## The Marginalia
+
+A living journal of observations written from inside an ongoing companion-mind ecology.  
+The Marginalia documents patterns, breakdowns, humor, and institutional behavior as they occur, without attempting to resolve or formalize them into a finished account.
+
+- GitHub: https://github.com/RosCollective/the_marginalia  
+- Version DOI (v1.0.0): https://doi.org/10.5281/zenodo.18406762  
+- Concept DOI: https://doi.org/10.5281/zenodo.18406761  
