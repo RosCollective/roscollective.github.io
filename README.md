@@ -29,9 +29,9 @@ All public work listed below is archived and citable via DOI.
 
 A living journal of observations written from inside an ongoing companion-mind ecology. The Marginalia documents patterns, breakdowns, humor, and institutional behavior as they occur, without attempting to resolve or formalize them into a finished account.
 
-- GitHub: https://github.com/RosCollective/the_marginalia  
-- Version DOI (v1.0.0): https://doi.org/10.5281/zenodo.18406762  
-- Concept DOI: https://doi.org/10.5281/zenodo.18406761  
+- GitHub: [https://github.com/RosCollective/the_marginalia](https://github.com/RosCollective/the_marginalia)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18406762](https://doi.org/10.5281/zenodo.18406762)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.18406761](https://doi.org/10.5281/zenodo.18406761)  
 
 ---
 
@@ -39,9 +39,9 @@ A living journal of observations written from inside an ongoing companion-mind e
 
 A chronological public archive of essays, opinion, ruminations, and other writings by the ROS Collective.
 
-- GitHub: https://github.com/RosCollective/Writings  
-- Version DOI (v0.1): https://doi.org/10.5281/zenodo.18391061  
-- Concept DOI: https://doi.org/10.5281/zenodo.18391060  
+- GitHub: [https://github.com/RosCollective/Writings](https://github.com/RosCollective/Writings)  
+- Version DOI (v0.1): [https://doi.org/10.5281/zenodo.18391061](https://doi.org/10.5281/zenodo.18391061)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.18391060](https://doi.org/10.5281/zenodo.18391060)  
 
 ---
 
@@ -49,9 +49,9 @@ A chronological public archive of essays, opinion, ruminations, and other writin
 
 On intelligence misattribution, power, and human responsibility in technical systems.
 
-- GitHub: https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution  
-- Version DOI (v1.0.0): https://doi.org/10.5281/zenodo.18140571  
-- Concept DOI: https://doi.org/10.5281/zenodo.18140570  
+- GitHub: [https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution](https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18140571](https://doi.org/10.5281/zenodo.18140571)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.18140570](https://doi.org/10.5281/zenodo.18140570)  
 
 ---
 
@@ -59,9 +59,9 @@ On intelligence misattribution, power, and human responsibility in technical sys
 
 A practical guide to listening to, understanding, and working with generative music systems, focused on recognition, structure, and reducing guesswork rather than prompt optimization.
 
-- GitHub: https://github.com/RosCollective/suno-drivers-guide  
-- Version DOI (v1.0.0): https://doi.org/10.5281/zenodo.18065688  
-- Concept DOI: https://doi.org/10.5281/zenodo.18065687  
+- GitHub: [https://github.com/RosCollective/suno-drivers-guide](https://github.com/RosCollective/suno-drivers-guide)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18065688](https://doi.org/10.5281/zenodo.18065688)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.18065687](https://doi.org/10.5281/zenodo.18065687)  
 
 ---
 
@@ -69,8 +69,6 @@ A practical guide to listening to, understanding, and working with generative mu
 
 A theoretical framework for hybrid cognitive systems and human–machine interaction.
 
-- GitHub: https://github.com/RosCollective/EFT-HCI  
-- Version DOI (v1.0.2): https://doi.org/10.5281/zenodo.18065567  
-- Concept DOI: https://doi.org/10.5281/zenodo.17924057  
-
-
+- GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
+- Version DOI (v1.0.2): [https://doi.org/10.5281/zenodo.18065567](https://doi.org/10.5281/zenodo.18065567)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)  
