@@ -1,6 +1,6 @@
 # RosCollective
 
-RosCollective is an independent research collective exploring complex systems, tools, and human interaction across research, cultural analysis, and creative practice.
+RosCollective is an independent collective exploring complex systems, tools, and human interaction across cultural analysis, research practice, and creative work.
 
 This site serves as a canonical index to our public work, linking to active repositories, archived and citable materials, and longer-form writing hosted across open platforms in reverse chronological order by date of archival publication (DOI issuance).
 
@@ -72,3 +72,4 @@ A theoretical framework for hybrid cognitive systems and human–machine interac
 - GitHub: https://github.com/RosCollective/EFT-HCI  
 - Version DOI (v1.0.2): https://doi.org/10.5281/zenodo.18065567  
 - Concept DOI: https://doi.org/10.5281/zenodo.17924057  
+
