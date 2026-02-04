@@ -25,6 +25,16 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
+### 2026-02-03 — Probes for Speculative Intelligence and Field Viability (v1.0.0)
+
+A set of qualitative probes and associated observational artifacts examining speculative intelligence and field viability across contemporary AI systems.
+
+- GitHub: [https://github.com/RosCollective/probes-for-speculative-intelligence-and-field-viability](https://github.com/RosCollective/probes-for-speculative-intelligence-and-field-viability)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18484063](https://doi.org/10.5281/zenodo.18484063)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.18484062](https://doi.org/10.5281/zenodo.18484062)  
+
+---
+
 ### 2026-01-28 — The Marginalia (v1.0.0)
 
 A living journal of observations written from inside an ongoing companion-mind ecology. The Marginalia documents patterns, breakdowns, humor, and institutional behavior as they occur, without attempting to resolve or formalize them into a finished account.
@@ -72,3 +82,4 @@ A theoretical framework for hybrid cognitive systems and human–machine interac
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
 - Version DOI (v1.0.2): [https://doi.org/10.5281/zenodo.18065567](https://doi.org/10.5281/zenodo.18065567)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)  
+
