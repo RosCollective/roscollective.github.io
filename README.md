@@ -75,11 +75,12 @@ A practical guide to listening to, understanding, and working with generative mu
 
 ---
 
-### 2025-12-27 — Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI) (v1.0.2)
+### 2026-02-13 — Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI) (v1.0.3)
 
 A theoretical framework for hybrid cognitive systems and human–machine interaction.
 
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
-- Version DOI (v1.0.2): [https://doi.org/10.5281/zenodo.18065567](https://doi.org/10.5281/zenodo.18065567)  
-- Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)  
+- Version DOI (v1.0.3): [https://doi.org/10.5281/zenodo.18631591](https://doi.org/10.5281/zenodo.18631591)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
+
 
