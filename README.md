@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ROS_Logo_512.png" width="220">
+</p>
+
 # RosCollective
 
 RosCollective explores complex systems, tools, and human interaction through independent research, cultural analysis, and creative practice.
@@ -82,6 +86,7 @@ A theoretical framework for hybrid cognitive systems and human–machine interac
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
 - Version DOI (v1.0.3): [https://doi.org/10.5281/zenodo.18631591](https://doi.org/10.5281/zenodo.18631591)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
+
 
 
 
