@@ -35,12 +35,12 @@ A set of qualitative probes and associated observational artifacts examining spe
 
 ---
 
-### 2026-01-28 — The Marginalia (v1.0.0)
+### 2026-03-04 — The Marginalia (v1.1.0)
 
 A living journal of observations written from inside an ongoing companion-mind ecology. The Marginalia documents patterns, breakdowns, humor, and institutional behavior as they occur, without attempting to resolve or formalize them into a finished account.
 
 - GitHub: [https://github.com/RosCollective/the_marginalia](https://github.com/RosCollective/the_marginalia)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18406762](https://doi.org/10.5281/zenodo.18406762)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18868883](https://doi.org/10.5281/zenodo.18868883)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.18406761](https://doi.org/10.5281/zenodo.18406761)  
 
 ---
@@ -82,5 +82,6 @@ A theoretical framework for hybrid cognitive systems and human–machine interac
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
 - Version DOI (v1.0.3): [https://doi.org/10.5281/zenodo.18631591](https://doi.org/10.5281/zenodo.18631591)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
+
 
 
