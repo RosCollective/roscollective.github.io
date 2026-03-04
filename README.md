@@ -7,7 +7,6 @@ RosCollective explores complex systems, tools, and human interaction through ind
 This site serves as a canonical index to our public work, linking to active repositories, archived and citable materials, and longer-form writing hosted across open platforms in reverse chronological order by date of archival publication (DOI issuance).
 
 <br clear="left">
----
 
 ## How to navigate this work
 
@@ -85,6 +84,7 @@ A theoretical framework for hybrid cognitive systems and human–machine interac
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
 - Version DOI (v1.0.3): [https://doi.org/10.5281/zenodo.18631591](https://doi.org/10.5281/zenodo.18631591)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
+
 
 
 
