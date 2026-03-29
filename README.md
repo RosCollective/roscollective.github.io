@@ -80,7 +80,7 @@ A practical guide to listening to, understanding, and working with generative mu
 A theoretical framework for hybrid cognitive systems and human–machine interaction.
 
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
-- Version DOI (v1.0.4): [https://doi.org/10.5281/zenodo.18631591](https://doi.org/10.5281/zenodo.19313446)  
+- Version DOI (v1.0.4): [https://doi.org/10.5281/zenodo.19313446](https://doi.org/10.5281/zenodo.19313446)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
 
 
