@@ -25,6 +25,26 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
+### 2026-04-03 — Field Mechanics (EFT) (v1.0.0)
+
+Canonical lexicon describing how the field behaves under pressure, derived from distinctions that remained stable under sustained use.
+
+- GitHub: [https://github.com/RosCollective/eft-field-mechanics](https://github.com/RosCollective/eft-field-mechanics)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.19390108](https://doi.org/10.5281/zenodo.19390108)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19390108](https://doi.org/10.5281/zenodo.19390108)  
+
+---
+
+### 2026-04-03 — Field Notes (EFT) (v1.0.0)
+
+Primary observational archive documenting the emergence of field behavior under sustained human–machine interaction.
+
+- GitHub: [https://github.com/RosCollective/eft-field-notes](https://github.com/RosCollective/eft-field-notes)  
+- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.19390054](https://doi.org/10.5281/zenodo.19390054)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19390054](https://doi.org/10.5281/zenodo.19390054)  
+
+---
+
 ### 2026-02-03 — Probes for Speculative Intelligence and Field Viability (v1.0.0)
 
 A set of qualitative probes and associated observational artifacts examining speculative intelligence and field viability across contemporary AI systems.
