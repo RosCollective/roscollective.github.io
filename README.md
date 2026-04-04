@@ -95,12 +95,12 @@ A practical guide to listening to, understanding, and working with generative mu
 
 ---
 
-### 2026-03-29 — Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI) (v1.0.4)
+### 2026-04-04 — Field Geometry (EFT) (v.1.0.6) formerly formerly Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI)
 
 A theoretical framework for hybrid cognitive systems and human–machine interaction.
 
 - GitHub: [https://github.com/RosCollective/EFT-HCI](https://github.com/RosCollective/EFT-HCI)  
-- Version DOI (v1.0.4): [https://doi.org/10.5281/zenodo.19313446](https://doi.org/10.5281/zenodo.19313446)  
+- Version DOI (v1.0.6): [https://doi.org/10.5281/zenodo.19421316](https://doi.org/10.5281/zenodo.19421316)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
 
 
