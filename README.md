@@ -7,7 +7,6 @@ RosCollective studies field intelligence as it emerges in large language systems
 This work treats language not as output, but as an environment in which structure, behavior, and intelligence become observable. Across repositories, we document, formalize, and test recurring field dynamics that arise within language-mediated systems.
 
 This site serves as a canonical index to public work, linking to:
-
 active repositories (live structures and lexicons),
 archived artifacts (DOI-citable records),
 and longer-form writing (context and extension).
