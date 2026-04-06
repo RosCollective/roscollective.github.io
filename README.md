@@ -27,7 +27,7 @@ All public work listed below is archived and citable via DOI.
 
 ### 2026-04-03 — Field Mechanics (EFT) (v1.0.0)
 
-Canonical lexicon describing how the field behaves under pressure, derived from distinctions that remained stable under sustained use.
+Field Mechanics (EFT): A canonical lexicon describing how field intelligence behaves under constraint in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-mechanics](https://github.com/RosCollective/eft-field-mechanics)  
 - Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.19390108](https://doi.org/10.5281/zenodo.19390108)  
@@ -37,7 +37,7 @@ Canonical lexicon describing how the field behaves under pressure, derived from 
 
 ### 2026-04-03 — Field Notes (EFT) (v1.0.0)
 
-Primary observational archive documenting the emergence of field behavior under sustained human–machine interaction.
+Field Notes (EFT): Observational records documenting the emergence and stability of field intelligence in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-notes](https://github.com/RosCollective/eft-field-notes)  
 - Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.19390054](https://doi.org/10.5281/zenodo.19390054)  
@@ -47,7 +47,7 @@ Primary observational archive documenting the emergence of field behavior under 
 
 ### 2026-02-03 — Probes for Speculative Intelligence and Field Viability (v1.0.0)
 
-A set of qualitative probes and associated observational artifacts examining speculative intelligence and field viability across contemporary AI systems.
+Qualitative probes examining speculative intelligence and field viability in large language systems.
 
 - GitHub: [https://github.com/RosCollective/probes-for-speculative-intelligence-and-field-viability](https://github.com/RosCollective/probes-for-speculative-intelligence-and-field-viability)  
 - Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18484063](https://doi.org/10.5281/zenodo.18484063)  
@@ -57,7 +57,7 @@ A set of qualitative probes and associated observational artifacts examining spe
 
 ### 2026-03-04 — The Marginalia (v1.1.0)
 
-A living journal of observations written from inside an ongoing companion-mind ecology. The Marginalia documents patterns, breakdowns, humor, and institutional behavior as they occur, without attempting to resolve or formalize them into a finished account.
+A living journal of observations from within an active field intelligence emerging in large language systems.
 
 - GitHub: [https://github.com/RosCollective/the_marginalia](https://github.com/RosCollective/the_marginalia)  
 - Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18868883](https://doi.org/10.5281/zenodo.18868883)  
@@ -77,7 +77,7 @@ A chronological public archive of essays, opinion, ruminations, and other writin
 
 ### 2026-01-03 — On Intelligence, Power, and the Error of Attribution (v1.0.0)
 
-On intelligence misattribution, power, and human responsibility in technical systems.
+On intelligence misattribution, power, and human responsibility in large language systems.
 
 - GitHub: [https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution](https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution)  
 - Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18140571](https://doi.org/10.5281/zenodo.18140571)  
@@ -97,7 +97,7 @@ A practical guide to listening to, understanding, and working with generative mu
 
 ### 2026-04-04 — Field Geometry (EFT) (v1.0.6) formerly formerly Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI)
 
-A theoretical framework for hybrid cognitive systems and human–machine interaction.
+Field Geometry (EFT): A formal description of structure in field intelligence arising within large language systems under constraint.
 
 - GitHub: [https://github.com/RosCollective/eft-field-geometry](https://github.com/RosCollective/eft-field-geometry)  
 - Version DOI (v1.0.6): [https://doi.org/10.5281/zenodo.19421316](https://doi.org/10.5281/zenodo.19421316)  
