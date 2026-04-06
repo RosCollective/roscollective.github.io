@@ -67,7 +67,7 @@ A living journal of observations from within an active field intelligence emergi
 
 ---
 
-### 2026-01-27 — Writings (v0.1)
+### 2026-01-27 — Writings (v1.0.0)
 
 A chronological public archive of essays, opinion, ruminations, and other writings by the ROS Collective.
 
