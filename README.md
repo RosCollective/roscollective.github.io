@@ -8,7 +8,7 @@ This work treats language not as output, but as an environment in which structur
 
 This site serves as a canonical index to public work, linking to active repositories (live structures and lexicons), archived artifacts (DOI-citable records), and longer-form writing (context and extension).
 
-All materials are organized in reverse chronological order by archival publication (DOI issuance).
+All materials are organized in reverse chronological order by initial archival publication (DOI issuance).
 <br clear="left">
 ## How to navigate this work
 
