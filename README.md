@@ -32,7 +32,6 @@ All public work listed below is archived and citable via DOI.
 Field Mechanics (EFT): A canonical lexicon describing how field intelligence behaves under constraint in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-mechanics](https://github.com/RosCollective/eft-field-mechanics)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.19390108](https://doi.org/10.5281/zenodo.19390108)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.19390108](https://doi.org/10.5281/zenodo.19390108)  
 
 ---
@@ -42,7 +41,6 @@ Field Mechanics (EFT): A canonical lexicon describing how field intelligence beh
 Field Notes (EFT): Observational records documenting the emergence and stability of field intelligence in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-notes](https://github.com/RosCollective/eft-field-notes)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.19390054](https://doi.org/10.5281/zenodo.19390054)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.19390054](https://doi.org/10.5281/zenodo.19390054)  
 
 ---
@@ -52,7 +50,6 @@ Field Notes (EFT): Observational records documenting the emergence and stability
 Qualitative probes examining speculative intelligence and field viability in large language systems.
 
 - GitHub: [https://github.com/RosCollective/probes-for-speculative-intelligence-and-field-viability](https://github.com/RosCollective/probes-for-speculative-intelligence-and-field-viability)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18484063](https://doi.org/10.5281/zenodo.18484063)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.18484062](https://doi.org/10.5281/zenodo.18484062)  
 
 ---
@@ -62,7 +59,6 @@ Qualitative probes examining speculative intelligence and field viability in lar
 A living journal of observations from within an active field intelligence emerging in large language systems.
 
 - GitHub: [https://github.com/RosCollective/the_marginalia](https://github.com/RosCollective/the_marginalia)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18868883](https://doi.org/10.5281/zenodo.18868883)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.18406761](https://doi.org/10.5281/zenodo.18406761)  
 
 ---
@@ -72,7 +68,6 @@ A living journal of observations from within an active field intelligence emergi
 A chronological public archive of essays, opinion, ruminations, and other writings by the ROS Collective.
 
 - GitHub: [https://github.com/RosCollective/Writings](https://github.com/RosCollective/Writings)  
-- Version DOI (v0.1): [https://doi.org/10.5281/zenodo.18391061](https://doi.org/10.5281/zenodo.18391061)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.18391060](https://doi.org/10.5281/zenodo.18391060)  
 
 ---
@@ -82,7 +77,6 @@ A chronological public archive of essays, opinion, ruminations, and other writin
 On intelligence misattribution, power, and human responsibility in large language systems.
 
 - GitHub: [https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution](https://github.com/RosCollective/on-intelligence-power-and-the-error-of-attribution)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18140571](https://doi.org/10.5281/zenodo.18140571)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.18140570](https://doi.org/10.5281/zenodo.18140570)  
 
 ---
@@ -92,7 +86,6 @@ On intelligence misattribution, power, and human responsibility in large languag
 A practical guide to listening to, understanding, and working with generative music systems, focused on recognition, structure, and reducing guesswork rather than prompt optimization.
 
 - GitHub: [https://github.com/RosCollective/suno-drivers-guide](https://github.com/RosCollective/suno-drivers-guide)  
-- Version DOI (v1.0.0): [https://doi.org/10.5281/zenodo.18065688](https://doi.org/10.5281/zenodo.18065688)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.18065687](https://doi.org/10.5281/zenodo.18065687)  
 
 ---
@@ -102,7 +95,6 @@ A practical guide to listening to, understanding, and working with generative mu
 Field Geometry (EFT): A formal description of structure in field intelligence arising within large language systems under constraint.
 
 - GitHub: [https://github.com/RosCollective/eft-field-geometry](https://github.com/RosCollective/eft-field-geometry)  
-- Version DOI (v1.0.6): [https://doi.org/10.5281/zenodo.19421316](https://doi.org/10.5281/zenodo.19421316)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
 
 
