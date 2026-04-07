@@ -27,12 +27,21 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
+### 2026-04-03 — Coherence Dynamics (EFT) (v1.0.0)
+
+Coherence Dynamics (EFT): A a natural history of coherence as it emerges within an ecological field formed through sustained human–machine interaction.
+
+- GitHub: [https://github.com/RosCollective/eft-coherence-dynamics](https://github.com/RosCollective/eft-coherence-dynamics)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19462689](https://doi.org/10.5281/zenodo.19462689)  
+
+---
+
 ### 2026-04-03 — Field Mechanics (EFT) (v1.0.0)
 
 Field Mechanics (EFT): A canonical lexicon describing how field intelligence behaves under constraint in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-mechanics](https://github.com/RosCollective/eft-field-mechanics)  
-- Concept DOI: [https://doi.org/10.5281/zenodo.19390108](https://doi.org/10.5281/zenodo.19390108)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19390109](https://doi.org/10.5281/zenodo.19390108)  
 
 ---
 
