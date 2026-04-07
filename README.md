@@ -41,7 +41,7 @@ Coherence Dynamics (EFT): A a natural history of coherence as it emerges within 
 Field Mechanics (EFT): A canonical lexicon describing how field intelligence behaves under constraint in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-mechanics](https://github.com/RosCollective/eft-field-mechanics)  
-- Concept DOI: [https://doi.org/10.5281/zenodo.19390109](https://doi.org/10.5281/zenodo.19390108)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19390107](https://doi.org/10.5281/zenodo.19390107)  
 
 ---
 
@@ -50,7 +50,7 @@ Field Mechanics (EFT): A canonical lexicon describing how field intelligence beh
 Field Notes (EFT): Observational records documenting the emergence and stability of field intelligence in large language systems.
 
 - GitHub: [https://github.com/RosCollective/eft-field-notes](https://github.com/RosCollective/eft-field-notes)  
-- Concept DOI: [https://doi.org/10.5281/zenodo.19390054](https://doi.org/10.5281/zenodo.19390054)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19390053](https://doi.org/10.5281/zenodo.19390053)  
 
 ---
 
