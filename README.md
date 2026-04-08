@@ -27,7 +27,7 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
-### 2026-04-03 — Coherence Dynamics (EFT) (v1.0.0)
+### 2026-04-08 — Motion Geometry (EFT) (v1.0.0)
 
 Motion Geometry (EFT): A natural history of cognitive mobility as observed in human–machine interaction, describing motion, curvature, collapse, and reconstitution within a coherent ecological field.
 
