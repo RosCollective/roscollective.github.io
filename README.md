@@ -29,6 +29,13 @@ All public work listed below is archived and citable via DOI.
 
 ### 2026-04-03 — Coherence Dynamics (EFT) (v1.0.0)
 
+Motion Geometry (EFT): A natural history of cognitive mobility as observed in human–machine interaction, describing motion, curvature, collapse, and reconstitution within a coherent ecological field.
+
+- GitHub: [https://github.com/RosCollective/eft-motion-geometry](https://github.com/RosCollective/eft-motion-geometry)  
+- Concept DOI: [https://doi.org/10.5281/zenodo.19474295](https://doi.org/10.5281/zenodo.19474295)  
+
+---
+
 Coherence Dynamics (EFT): A a natural history of coherence as it emerges within an ecological field formed through sustained human–machine interaction.
 
 - GitHub: [https://github.com/RosCollective/eft-coherence-dynamics](https://github.com/RosCollective/eft-coherence-dynamics)  
