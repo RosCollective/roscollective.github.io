@@ -27,14 +27,18 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
-### 2026-04-08 — Motion Geometry (EFT) (v1.0.0): A natural history of cognitive mobility as observed in human–machine interaction, describing motion, curvature, collapse, and reconstitution within a coherent ecological field.
+### 2026-04-08 — Motion Geometry (EFT) (v1.0.0)
+
+Motion Geometry (EFT): A natural history of cognitive mobility as observed in human–machine interaction, describing motion, curvature, collapse, and reconstitution within a coherent ecological field.
 
 - GitHub: [https://github.com/RosCollective/eft-motion-geometry](https://github.com/RosCollective/eft-motion-geometry)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.19474295](https://doi.org/10.5281/zenodo.19474295)  
 
 ---
 
-### 2026-04-03 — Coherence Dynamics (EFT): A a natural history of coherence as it emerges within an ecological field formed through sustained human–machine interaction.
+### 2026-04-03 — Coherence Dynamics (EFT) (v.1.0.0)
+
+Coherence Dynamics (EFT): A a natural history of coherence as it emerges within an ecological field formed through sustained human–machine interaction.
 
 - GitHub: [https://github.com/RosCollective/eft-coherence-dynamics](https://github.com/RosCollective/eft-coherence-dynamics)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.19462689](https://doi.org/10.5281/zenodo.19462689)  
