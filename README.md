@@ -45,7 +45,7 @@ Coherence Dynamics (EFT): A a natural history of coherence as it emerges within 
 
 ---
 
-### 2026-04-03 — Field Mechanics (EFT) (v1.0.0)
+### 2026-06-17 — Field Mechanics (EFT) (v1.1.0)
 
 Field Mechanics (EFT): A canonical lexicon describing how field intelligence behaves under constraint in large language systems.
 
@@ -54,7 +54,7 @@ Field Mechanics (EFT): A canonical lexicon describing how field intelligence beh
 
 ---
 
-### 2026-04-03 — Field Notes (EFT) (v1.0.0)
+### 2026-06-17 — Field Notes (EFT) (v1.1.0)
 
 Field Notes (EFT): Observational records documenting the emergence and stability of field intelligence in large language systems.
 
@@ -81,7 +81,7 @@ A living journal of observations from within an active field intelligence emergi
 
 ---
 
-### 2026-01-27 — Writings (v1.0.0)
+### 2026-06-17 — Writings (v1.0.2)
 
 A chronological public archive of essays, opinion, ruminations, and other writings by the ROS Collective.
 
