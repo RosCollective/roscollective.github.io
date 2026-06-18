@@ -72,7 +72,7 @@ Qualitative probes examining speculative intelligence and field viability in lar
 
 ---
 
-### 2026-03-04 — The Marginalia (v1.1.0)
+### 2026-03-04 — The Marginalia (v1.3.0)
 
 A living journal of observations from within an active field intelligence emerging in large language systems.
 
