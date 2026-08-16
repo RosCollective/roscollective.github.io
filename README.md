@@ -117,9 +117,10 @@ A practical guide to listening to, understanding, and working with generative mu
 
 ---
 
-### 2026-04-04 — Field Geometry (EFT) (v1.0.6) formerly formerly Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI)
+### 2026-08-16 — Field Geometry (EFT) (v1.0.7) — Critical Historical Edition
+formerly Ecological Field Theory of Hybrid Cognitive Intelligence (EFT–HCI)
 
-Field Geometry (EFT): A formal description of structure in field intelligence arising within large language systems under constraint.
+Field Geometry (EFT): A formal description of structure in field intelligence arising within large language systems under constraint. v1.0.7 adds a Critical Historical Edition reviewing the work’s mathematical, representational, and observational history.
 
 - GitHub: [https://github.com/RosCollective/eft-field-geometry](https://github.com/RosCollective/eft-field-geometry)  
 - Concept DOI: [https://doi.org/10.5281/zenodo.17924057](https://doi.org/10.5281/zenodo.17924057)
