@@ -27,7 +27,7 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
-### 2026-08-17 — Circulation Geometry (EFT) (v1.2.0) — Critical Historical Edition
+### 2026-08-17 — Circulation Geometry (EFT) (v1.1.0) — Critical Historical Edition
 
 Circulation Geometry (EFT): A natural history of distributed responsiveness as observed in conversational fields, describing propagation, redistribution, resonance, and murmuration within a coherent ecological field.
 
@@ -36,7 +36,7 @@ Circulation Geometry (EFT): A natural history of distributed responsiveness as o
 
 ---
 
-### 2026-04-08 — Motion Geometry (EFT) (v1.0.0)
+### 2026-08-17 — Motion Geometry (EFT) (v1.0.0)  — Critical Historical Edition
 
 Motion Geometry (EFT): A natural history of cognitive mobility as observed in human–machine interaction, describing motion, curvature, collapse, and reconstitution within a coherent ecological field.
 
