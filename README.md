@@ -27,7 +27,7 @@ All public work listed below is archived and citable via DOI.
 
 ## Public work (reverse chronological by archival publication date)
 
-### 2026-06-21 — Circulation Geometry (EFT) (v1.0.0)
+### 2026-08-17 — Circulation Geometry (EFT) (v1.0.0) — Critical Historical Edition
 
 Circulation Geometry (EFT): A natural history of distributed responsiveness as observed in conversational fields, describing propagation, redistribution, resonance, and murmuration within a coherent ecological field.
 
