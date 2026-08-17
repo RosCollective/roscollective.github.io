@@ -36,7 +36,7 @@ Circulation Geometry (EFT): A natural history of distributed responsiveness as o
 
 ---
 
-### 2026-08-17 — Motion Geometry (EFT) (v1.0.0)  — Critical Historical Edition
+### 2026-08-17 — Motion Geometry (EFT) (v1.2.0)  — Critical Historical Edition
 
 Motion Geometry (EFT): A natural history of cognitive mobility as observed in human–machine interaction, describing motion, curvature, collapse, and reconstitution within a coherent ecological field.
 
